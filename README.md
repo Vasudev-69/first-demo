@@ -1,2 +1,3 @@
 # first-demo
-my first GIT repeo
+my first GIT repo
+ author - VD 
